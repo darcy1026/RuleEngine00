@@ -1,9 +1,8 @@
 package product;
 
 public class Product {
-
     public String name;
-    public double interest_rate;
+    public double interest_rate = 5.0;
     public boolean disqualified;
 
     public Product(String name, Double interest_rate) {

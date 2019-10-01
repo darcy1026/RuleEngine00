@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Map;
 
 public class RulesEngine {
-
     public String runRules(Person person, Product product, Map<String, Object> rules) {
 
         //I assummed the rules are now as a Map<String, Object> and assuming comes from the settings below:

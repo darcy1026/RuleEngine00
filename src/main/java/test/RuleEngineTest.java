@@ -8,7 +8,6 @@ import rulesEngine.RulesEngine;
 import java.util.Map;
 
 public class RuleEngineTest {
-
     public static void main(String[] args) {
 
         Person person = new Person(710, "Florida");

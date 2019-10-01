@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Map;
 
 public class LoadingRules {
-
     public static Map<String, Object> loadRules(){
 
         double interest_rate_change_amount_for_higher_credit_score = .3;
