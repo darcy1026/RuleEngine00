@@ -9,7 +9,7 @@ public class Product {
         // name and interest rate can not be null
         if (name == null || interest_rate == null) {
             System.err.println("Product name cannot be null!!!");
-            return;
+            System.exit(0);
         }
         this.name = name;
         this.interest_rate = interest_rate;

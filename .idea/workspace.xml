@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d828ca35-a27a-4397-ad53-ef1e5077ddd6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/LoadingRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/LoadingRules.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/person/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/RuleEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/RuleEngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/person/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/product/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rulesEngine/LoadingRules.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rulesEngine/LoadingRules.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/RuleEngineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/RuleEngineTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,7 @@
       <workItem from="1569903667265" duration="336000" />
       <workItem from="1569904018324" duration="377000" />
       <workItem from="1569940550073" duration="5608000" />
-      <workItem from="1569957709810" duration="269000" />
+      <workItem from="1569957709810" duration="479000" />
     </task>
     <servers />
   </component>

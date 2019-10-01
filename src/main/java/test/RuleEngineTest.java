@@ -10,7 +10,7 @@ import java.util.Map;
 public class RuleEngineTest {
     public static void main(String[] args) {
 
-        Person person = new Person(710, "Florida");
+        Person person = new Person(null, "Florida");
 
         Product product = new Product("7-1 ARM",5.0);
 
