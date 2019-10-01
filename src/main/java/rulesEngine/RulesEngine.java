@@ -21,6 +21,11 @@ public class RulesEngine {
           }
         * */
 
+        if (person == null || product == null || rules == null) {
+            System.err.println("Person, Product, or Rules cannot be null");
+            return "";
+        }
+
         String result = "";
 
         //Setting the values from the rules that is loaded...

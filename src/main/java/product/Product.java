@@ -6,17 +6,12 @@ public class Product {
     public double interest_rate;
     public boolean disqualified;
 
-    public Product(String name, double interest_rate) {
-        if(name == null){
+    public Product(String name, Double interest_rate) {
+        if (name == null || interest_rate == null) {
             System.err.println("Product name cannot be null!!!");
-            System.exit(0);
-        }
-        if (interest_rate <= 0){
-            System.err.println("Interest rate cannot be less than or equal to 0");
-            System.exit(0);
+            return;
         }
         this.name = name;
         this.interest_rate = interest_rate;
     }
 }
-
