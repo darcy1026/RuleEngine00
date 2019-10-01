@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d828ca35-a27a-4397-ad53-ef1e5077ddd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore.swp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +22,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RNQb8SNvS5119mC5wJsXPg224p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -79,7 +82,7 @@
       <workItem from="1569903667265" duration="336000" />
       <workItem from="1569904018324" duration="377000" />
       <workItem from="1569940550073" duration="5608000" />
-      <workItem from="1569957709810" duration="935000" />
+      <workItem from="1569957709810" duration="1191000" />
     </task>
     <servers />
   </component>
@@ -98,5 +101,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
