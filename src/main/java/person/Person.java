@@ -8,7 +8,6 @@ public class Person {
         // state can not be null
         if (state == null || creditScore == null){
             System.err.println("State or credit score cannot be null");
-           // System.exit(0);
             return;
         }
         this.creditScore = creditScore;

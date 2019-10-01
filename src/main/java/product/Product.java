@@ -7,6 +7,7 @@ public class Product {
     public boolean disqualified;
 
     public Product(String name, Double interest_rate) {
+        // product can not be null
         if (name == null || interest_rate == null) {
             System.err.println("Product name cannot be null!!!");
             return;

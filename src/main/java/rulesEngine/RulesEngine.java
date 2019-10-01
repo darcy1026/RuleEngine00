@@ -21,6 +21,7 @@ public class RulesEngine {
           }
         * */
 
+        // person, product, rules can not be null
         if (person == null || product == null || rules == null) {
             System.err.println("Person, Product, or Rules cannot be null");
             return "";
