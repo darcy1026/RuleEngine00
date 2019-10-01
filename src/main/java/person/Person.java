@@ -5,7 +5,7 @@ public class Person {
     public String state;
 
     public Person(Integer creditScore, String state) {
-        // state can not be null
+        // credit score and state can not be null
         if (state == null || creditScore == null){
             System.err.println("State or credit score cannot be null");
             return;

@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/person/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rulesEngine/RulesEngine.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1569903667265" duration="336000" />
       <workItem from="1569904018324" duration="377000" />
       <workItem from="1569940550073" duration="5608000" />
-      <workItem from="1569957709810" duration="42000" />
+      <workItem from="1569957709810" duration="111000" />
     </task>
     <servers />
   </component>
